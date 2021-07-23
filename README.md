@@ -6,7 +6,7 @@ Natural de Guarulhos-SP, residente em Ubá - MG, casado.
 
 Apaixonado por tecnologia, e principalmente por desenvolvimento de software, apesar de nunca ter trabalhado na área de desenvolvimento, mas sim trabalho há muitos anos em suporte ao usuário e manutenção de software e banco de dados.
 
-##:man_student: Dados Acadêmicos:
+##:man_student:Dados Acadêmicos:
 
 - Ensino Médio- Completo;
 - Ensino Superior em Ciência da Computação (Faltando a Monografia) - Unifagoc;
