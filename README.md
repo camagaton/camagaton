@@ -9,7 +9,7 @@ Apaixonado por tecnologia, e principalmente por desenvolvimento de software, ape
 ## :man_student: Dados Acadêmicos:
 
 - Ensino Médio- Completo;
-- Ensino Superior em Ciência da Computação (Faltando a Monografia) - Unifagoc;
+- Ensino Superior em Ciência da Computação (Cursando a Monografia) - Unifagoc;
 - Curso Técnico em Desenvolvimento de Sistema (Cursando) - IFSUDESTMG-Ubá;
 
 ## :man_pilot: Dados Profissionais:
